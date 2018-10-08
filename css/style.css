@@ -1,0 +1,61 @@
+body{
+    background: rgb(192, 192, 192);
+    text-align: center;
+}
+.zaglav{
+    color: red;
+    text-align: justify;
+    font-size: 30pt;
+    font-weight: 600;
+    top: 40px;
+    text-align: center;
+}
+.child {
+    position: absolute;
+    left: 15%;
+    top: 70px;
+    width: 80%; /* Ширина слоя */
+    height: 150%; /* Высота блока */
+    background: rgb(220, 220, 220);
+  }
+  .child_2{
+    position: absolute;
+    left: 15%;
+    top: 70px;
+    width: 80%; /* Ширина слоя */
+    height: 310%; /* Высота блока */
+    background: rgb(220, 220, 220);
+  } 
+  .child_3{
+    position: absolute;
+    left: 15%;
+    top: 70px;
+    width: 80%; /* Ширина слоя */
+    height: 409%; /* Высота блока */
+    background: rgb(220, 220, 220);
+  } 
+  .link{
+    position: absolute;
+    top: 70px;
+    width: 14%; /* Ширина слоя */
+    height: 100%; /* Высота блока */
+    font-size: 16pt;
+    text-align: right;
+    right: 86%;
+  }
+  .zap{
+    text-align: center;
+    font-weight: 1000;
+    font-size: 35pt;
+
+  }
+
+  .ob{
+      margin-left: 20px;
+      font-size: 16pt;
+      font-family: Helvetica;
+      
+  }
+  .fgg{
+    text-align: center;
+  }
